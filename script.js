@@ -1,0 +1,1 @@
+function demoAlert(msg){alert(msg+"\n\nयह NidhiPay demo है। कोई real payment process नहीं हो रहा।")}
